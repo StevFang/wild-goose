@@ -16,7 +16,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 @Slf4j
 public class AppTest {
 
-    @Reference(version = "1.0.0")
+//    @Reference(version = "1.0.0", url = "dubbo://127.0.0.1:12345")
+//    private SpringService springService;
+
+    @Reference(version = "1.0.1", url = "dubbo://127.0.0.1:12345")
     private SpringService springService;
 
     @Test
