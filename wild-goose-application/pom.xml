@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>wild-goose-provider</artifactId>
+    <artifactId>wild-goose-application</artifactId>
 
-    <name>wild-goose-provider</name>
+    <name>wild-goose-application</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -22,11 +22,7 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>com.qs</groupId>
-            <artifactId>wild-goose-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+
     </dependencies>
 
 </project>

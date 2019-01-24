@@ -23,4 +23,9 @@ public class AppTest {
     public void testSayHello(){
         springService.sayHello();
     }
+
+    @Test
+    public void loadJar(){
+
+    }
 }

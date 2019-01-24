@@ -22,13 +22,11 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>com.qs</groupId>
             <artifactId>wild-goose-model</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-
     </dependencies>
 
 </project>
