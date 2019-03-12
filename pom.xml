@@ -15,6 +15,7 @@
         <module>wild-goose-model</module>
         <module>wild-goose-application</module>
         <module>wild-goose-web</module>
+        <module>wild-goose-tool</module>
     </modules>
 
     <name>wild-goose</name>
